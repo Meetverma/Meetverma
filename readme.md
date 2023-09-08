@@ -16,4 +16,8 @@ Hi this is Meet Verma <br>A Tech Enthusiast and a web Developer <br>Currently st
 
 
 # Hey there watch my contribution graph eaten by snake 🐍 
-![snake gif](https://github.com/Meetverma/Meetverma/blob/output/github-contribution-grid-snake.gif)
+
+<div align="center">
+  <img  src="https://github.com/Meetverma/Meetverma/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
