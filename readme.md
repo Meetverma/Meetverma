@@ -15,5 +15,3 @@ Hi this is Meet Verma <br>A Tech Enthusiast and a web Developer <br>Currently st
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# Hey there watch my contribution graph eaten by snake 🐍 
-![snake gif](https://github.com/Meetverma/Meetverma/blob/output/github-contribution-grid-snake.gif)
