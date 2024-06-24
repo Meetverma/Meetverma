@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi this is Meet Verma <br>A Tech Enthusiast and a web Developer <br>Currently studying IT in MIT Manipal <br><br>
+Hey there, it's Meet Verma <br>A Tech Enthusiast and a web Developer <br>Currently studying IT in MIT Manipal <br><br>
 
 
 # 💻 Tech Stack:
